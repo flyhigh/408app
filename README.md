@@ -213,3 +213,21 @@ flutter analyze
 ```
 
 要求 Flutter SDK（Dart ^3.8.1）。详细设计依据见 `前端设计稿/` 目录下的四份文档。
+
+---
+
+## 十三、界面截图
+
+当前原型的五个主页面。截图由 `flutter build web` + 无头 Chrome 自动生成，视口 390 × 844 @2x，页面内容为原型内的静态示例数据。
+
+| 今日 | 知识库 |
+| --- | --- |
+| ![今日页面](docs/screenshots/01-today.png) | ![知识库页面](docs/screenshots/02-knowledge.png) |
+
+| 复习 | AI |
+| --- | --- |
+| ![复习页面](docs/screenshots/03-review.png) | ![AI 页面](docs/screenshots/04-ai.png) |
+
+| 我的 |  |
+| --- | --- |
+| ![我的页面](docs/screenshots/05-profile.png) |  |
